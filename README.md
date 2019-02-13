@@ -1,4 +1,13 @@
 
+# object-detection_tensorflow_webcam
+Eneable object detection via webcam using the tensorflow api
+
+## Installation
+- Clone or download the files
+- Read the Tensorflow Object Detection api documentation below to set up tensorflow on your system
+- Run the "object_detection_webcam.py" file in the above folder on your system
+- Sit back, relax and watch the magic happen.
+
 # Tensorflow Object Detection API
 Creating accurate machine learning models capable of localizing and identifying
 multiple objects in a single image remains a core challenge in computer vision.
