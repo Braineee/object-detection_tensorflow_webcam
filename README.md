@@ -1,6 +1,6 @@
 
 # object-detection_tensorflow_webcam
-Eneable object detection via webcam using the tensorflow api
+Enable object detection via webcam using the tensorflow api
 
 ## Installation
 - Clone or download the files
